@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This project is hosted on https://famous-meringue-ad639e.netlify.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
